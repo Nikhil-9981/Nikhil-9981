@@ -61,7 +61,16 @@ I specialize in shipping end‑to‑end products — from  frontend (Next.js) to
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF9900?style=for-the-badge&logo=huggingface&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 - Embeddings, LLM integration (APIs and on-premise where needed), prompt engineering, lightweight inference and caching strategies.
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
 
+- Deep Learning: CNNs, Transformers, training & fine-tuning
+- LLM workflows: prompt engineering, instruction tuning, evaluation
+- RAG & vector search: embeddings, FAISS, Chroma (ChromaDB), Weaviate, Milvus
+- Orchestration & indexing: LangChain, LlamaIndex, Haystack
+- Model hosting & inference: Hugging Face Inference, OpenAI API, custom inference stacks
+- Computer Vision: OpenCV, torchvision/Detectron2 pipelines, classification & detection workflows
+- Practical concerns: batching, caching, cost-aware inference, latency trade-offs
 ### Blockchain & Web3
 ![Foundry](https://img.shields.io/badge/Foundry-8B5CF6?style=for-the-badge&logo=foundry&logoColor=white)
 ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
