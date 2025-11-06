@@ -17,12 +17,12 @@
 ```yaml
 name: Nikhil
 role: Software Engineer
-summary: I build production-grade full‑stack applications and decentralized solutions. I have practical knowledge of GenAI and machine learning and apply that knowledge when it improves product features.
+summary: I build production-grade full‑stack applications and scalable solutions. I also have practical knowledge of  GenAI and machine learning and apply that knowledge when it improves product features.
 experience:
   - Web & Full-stack: Next.js, TypeScript, React, Node.js, API design
-  - Databases & Backend: PostgreSQL, Supabase, MongoDB, Redis, Prisma, SQL
-  - Web3 & Blockchain: Solidity, Foundry, Hardhat, ethers.js, smart-contract integration
-  - ML & GenAI (applied): embeddings, prompt engineering, model integration
+  - Databases & Backend: PostgreSQL, Supabase, MongoDB, Redis, SQL
+  - Web3 & Blockchain: Solidity, Foundry, smart-contract integration
+  - ML & GenAI (applied): embeddings, prompt engineering, model integration, computer vision, deep Learning, 
 currently_learning:
   - Advanced TypeScript and scalable system design
   - Foundry / Solidity tooling and secure smart‑contract development
