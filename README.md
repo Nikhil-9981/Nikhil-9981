@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Software+Engineer;+Next.js+%26+TypeScript;+Building+Decentralized+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Software+Engineer)](https://git.io/typing-svg)
 
 ![GitHub followers](https://img.shields.io/github/followers/Nikhil-9981?style=for-the-badge&logo=github&logoColor=white&color=6366F1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil9981/)
