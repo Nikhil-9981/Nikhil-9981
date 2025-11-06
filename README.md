@@ -64,8 +64,6 @@ I specialize in shipping end‑to‑end products — from  frontend (Next.js) to
 
 ### Blockchain & Web3
 ![Foundry](https://img.shields.io/badge/Foundry-8B5CF6?style=for-the-badge&logo=foundry&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-5A67D8?style=for-the-badge&logo=hardhat&logoColor=white)
-![ethers.js](https://img.shields.io/badge/ethers.js-3C3C3D?style=for-the-badge&logo=ethersdotjs&logoColor=white)
 ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
 - Solidity, contract testing, gas optimization, wallet UX, cross‑chain tools (LayerZero, CCIP ideas).
