@@ -29,7 +29,7 @@ currently_learning:
 focus: shipping maintainable, well-tested full‑stack apps and bridging ML features with decentralized flows
 ```
 
-I specialize in shipping end‑to‑end products — from UX and frontend (Next.js) to backend APIs, databases and deployment — and I add ML/GenAI features where they add measurable value. I also design and integrate decentralized (Web3) solutions, focusing on secure contracts and good UX.
+I specialize in shipping end‑to‑end products — from  frontend (Next.js) to backend APIs, databases and deployment — and I add ML/GenAI features where they add measurable value. I also design and integrate decentralized (Web3) solutions, focusing on secure contracts.
 
 ---
 
