@@ -99,14 +99,7 @@ I specialize in shipping end‑to‑end products — from  frontend (Next.js) to
 
 ---
 
-## 🔭 Featured Projects
-(Replace these placeholders with your repo links and short descriptions)
 
-- [next-ml-starter](https://github.com/Nikhil-9981/next-ml-starter) — Next.js starter with an example GenAI feature and Supabase backend.
-- [foundry-experiments](https://github.com/Nikhil-9981/foundry-experiments) — Smart-contract experiments and test suites with Foundry.
-- [node-automation-scripts](https://github.com/Nikhil-9981/node-automation-scripts) — Developer utilities and automation scripts.
-
----
 
 ## 📊 GitHub Stats
 
