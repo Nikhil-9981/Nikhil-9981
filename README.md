@@ -101,14 +101,6 @@ I specialize in shipping end‑to‑end products — from  frontend (Next.js) to
 
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nikhil-9981&show_icons=true&theme=tokyonight&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-9981&layout=compact&theme=tokyonight"/>
-
-</div>
 
 ---
 
