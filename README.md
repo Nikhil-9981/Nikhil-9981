@@ -39,15 +39,12 @@ I specialize in shipping end‑to‑end products — from  frontend (Next.js) to
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Web & Full-Stack
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-007ACC?style=for-the-badge&logo=rest&logoColor=white)
 
 ### Databases & Storage
@@ -70,11 +67,6 @@ I specialize in shipping end‑to‑end products — from  frontend (Next.js) to
 - Model hosting & inference: Hugging Face Inference, OpenAI API, custom inference stacks
 - Computer Vision: OpenCV, torchvision/Detectron2 pipelines, classification & detection workflows
 - Practical concerns: batching, caching, cost-aware inference, latency trade-offs
-### Blockchain & Web3
-![Foundry](https://img.shields.io/badge/Foundry-8B5CF6?style=for-the-badge&logo=foundry&logoColor=white)
-![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
-- Solidity, contract testing, gas optimization, wallet UX, cross‑chain tools (LayerZero, CCIP ideas).
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
